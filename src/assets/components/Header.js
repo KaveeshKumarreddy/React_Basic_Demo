@@ -1,5 +1,3 @@
-import keyConceptsImage from "../images/key-concepts.png";
-
 function Header(props) {
   return (
     <header>
